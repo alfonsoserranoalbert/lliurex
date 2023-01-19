@@ -15,6 +15,8 @@ public class Lliurex {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        21212121
+                
     }
     
 }
